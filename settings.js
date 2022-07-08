@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.ownername = "楽園の兄弟" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTY4NDYwODE4NDc5OTg5?story_media_id=2763070420220698181_7005543170&igshid=MDJmNzVkMjY=" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -66,7 +66,7 @@ global.ownertag = '916909137213' //ur owner number
 global.botname = 'Cheems Bot MD V4' //ur owner name
 global.linkz = "https://t.me/+3d20o8e714Y2NjQ1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://wa.link/icqo7v" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botyoutube = 'https://youtu.be/9j75gDFCIQw' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
